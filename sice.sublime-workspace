@@ -55,6 +55,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "system/core/Common.php",
+			"settings":
+			{
+				"buffer_size": 13433,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -109,10 +117,14 @@
 	},
 	"expanded_folders":
 	[
-		"/D/xampp/htdocs/sice"
+		"/D/xampp/htdocs/sice",
+		"/D/xampp/htdocs/sice/application",
+		"/D/xampp/htdocs/sice/application/config",
+		"/D/xampp/htdocs/sice/system/core"
 	],
 	"file_history":
 	[
+		"/D/xampp/htdocs/sice/scriptBanco.txt",
 		"/D/xampp/htdocs/sice/application/views/includes/sidebar.php",
 		"/D/xampp/htdocs/sice/application/views/biblioteca/emprestimo.php",
 		"/D/xampp/htdocs/sice/application/views/biblioteca/emprestimo_listar.php",
@@ -207,8 +219,38 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "system/core/Common.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6075,
+								6075
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3010.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
