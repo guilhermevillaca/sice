@@ -1,0 +1,301 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"biblio",
+				"bibliotecamodel"
+			],
+			[
+				"bibli",
+				"bibliotecamodel"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"script",
+				"script"
+			],
+			[
+				"bi",
+				"bibliotecamodel"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"ace",
+				"acervo_cad"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"load",
+				"load_model	CI - Load Model"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/xampp/htdocs/sice"
+	],
+	"file_history":
+	[
+		"/D/xampp/htdocs/sice/application/views/includes/sidebar.php",
+		"/D/xampp/htdocs/sice/application/views/biblioteca/emprestimo.php",
+		"/D/xampp/htdocs/sice/application/views/biblioteca/emprestimo_listar.php",
+		"/D/xampp/htdocs/sice/application/models/bibliotecamodel.php",
+		"/D/xampp/htdocs/sice/application/views/biblioteca/reservas.php",
+		"/D/xampp/htdocs/sice/application/controllers/biblioteca.php",
+		"/C/xampp/htdocs/sice/application/views/includes/sidebar.php",
+		"/C/xampp/htdocs/sice/application/views/includes/footer.php",
+		"/C/xampp/htdocs/sice/application/views/includes/ajuda.php",
+		"/C/xampp/htdocs/sice/application/views/includes/head.php",
+		"/C/xampp/htdocs/sice/application/controllers/professor.php",
+		"/C/xampp/htdocs/sice/application/controllers/sice.php",
+		"/C/xampp/htdocs/sice/application/controllers/perfil.php",
+		"/C/xampp/htdocs/sice/application/controllers/funcionario.php",
+		"/C/xampp/htdocs/sice/application/controllers/aluno.php",
+		"/C/xampp/htdocs/sice/application/models/loginmodel.php",
+		"/C/xampp/htdocs/sice/application/views/user/login.php",
+		"/C/xampp/htdocs/sice/application/controllers/user.php",
+		"/C/xampp/htdocs/sice/application/views/sice/sobre.php",
+		"/C/xampp/htdocs/sice/application/views/sice/configuracoes.php",
+		"/C/xampp/htdocs/sice/application/controllers/home.php",
+		"/C/xampp/htdocs/sice/application/views/home.php",
+		"/C/xampp/htdocs/sice/application/views/template_login.php",
+		"/C/xampp/htdocs/sice/application/config/autoload.php",
+		"/C/xampp/htdocs/sice/application/config/routes.php",
+		"/C/xampp/htdocs/sice/application/views/pessoa/edit.php",
+		"/C/xampp/htdocs/sice/application/views/pessoa/pessoa.php",
+		"/C/xampp/htdocs/sice/application/views/pessoa/listar.php",
+		"/C/xampp/htdocs/sice/application/views/pessoa/listarprofessor.php",
+		"/C/xampp/htdocs/sice/application/models/professormodel.php",
+		"/C/xampp/htdocs/sice/application/views/pessoa/listarfuncionario.php",
+		"/C/xampp/htdocs/sice/application/views/perfil/listar.php",
+		"/C/xampp/htdocs/sice/application/models/alunomodel.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/categoria_list.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/acervo_list.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/consulta_resultado.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/reservas.php",
+		"/C/xampp/htdocs/sice/js/validation.js",
+		"/C/xampp/htdocs/sice/application/views/includes/header.php",
+		"/C/xampp/htdocs/sice/js/maskedinput-1.3.js",
+		"/C/xampp/htdocs/sice/css/style.css",
+		"/C/xampp/htdocs/sice/css/foundation.css",
+		"/C/Users/Guilherme/Downloads/trab.txt",
+		"/C/Users/Guilherme/Desktop/TrabalhoJava.txt",
+		"/C/xampp/htdocs/sice/application/controllers/biblioteca.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/emprestimo_reserva.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/emprestimo.php",
+		"/C/xampp/htdocs/sice/application/models/bibliotecamodel.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/consulta.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/acervo_edit.php",
+		"/C/Users/Guilherme/Downloads/jquery-ui-1.10.3.custom/jquery-ui-1.10.3.custom/index.html",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/consulta_reserva.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/acervo_cad.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/acervo_home.php",
+		"/C/xampp/htdocs/sice/system/core/Router.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/categoria_cad.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/categoria_home.php",
+		"/C/xampp/htdocs/sice/application/views/biblioteca/categoria_edit.php",
+		"/C/xampp/htdocs/sice/application/config/config.php"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"error"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sice.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

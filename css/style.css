@@ -1,0 +1,6 @@
+select{padding: 6px;}
+table{width: 100%; border-collapse: collapse;}
+table, table tr, table tr td{border: 1px solid #e5e5e5; vertical-align: middle;}
+
+
+.clearfix{clear: both !important;}
